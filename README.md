@@ -2,29 +2,6 @@
 Exploratory Data Analysis of Chennai food delivery orders using Python, including data cleaning, missing value treatment, outlier detection, correlation analysis, delivery performance insights, and business recommendations.
 
 
-This is actually a nice Food Delivery Analytics Project and is different from your churn prediction project. It demonstrates EDA, data cleaning, outlier detection, statistical analysis, and business insights.
-
-Recommended GitHub Repository Name
-chennai-food-delivery-analysis
-
-
-or
-
-food-delivery-eda-and-business-insights
-
-
-or
-
-chennai-food-orders-analysis
-
-GitHub Description
-
-Exploratory Data Analysis of Chennai food delivery orders using Python, including data cleaning, missing value treatment, outlier detection, correlation analysis, delivery performance insights, and business recommendations.
-
-README.md
-# Chennai Food Delivery Analysis
-
-## Project Overview
 
 This project analyzes food delivery order data from Chennai to uncover patterns in customer orders, delivery performance, restaurant preparation times, and operational efficiency.
 
